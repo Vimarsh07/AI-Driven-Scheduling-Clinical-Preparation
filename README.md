@@ -1,4 +1,4 @@
-Beam Health – AI-Driven Scheduling & Clinical Preparation MVP
+AI-Driven Scheduling & Clinical Preparation MVP
 
 This project is a lightweight demonstration of how AI can streamline:
 - Patient intake automation
